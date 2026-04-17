@@ -1,10 +1,20 @@
 {
-  "name": "experimental-code",
-  "description": "My custom experimental code column",
+  "bootstrap": "index.js",
   "params": [
     {
       "name": "p1",
+      "displayName": "String",
       "type": "string"
+    },
+    {
+      "name": "p2",
+      "displayName": "Start index",
+      "type": "number"
+    },
+    {
+      "name": "p3",
+      "displayName": "End index",
+      "type": "number"
     }
   ],
   "result": {
