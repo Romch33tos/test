@@ -1,11 +1,1 @@
-{
-  "params": [
-    {
-      "name": "p1",
-      "type": "string"
-    }
-  ],
-  "result": {
-    "type": "string"
-  }
-}
+{"params":[{"name":"p1","type":"string"}],"result":{"type":"string"}}
