@@ -1,5 +1,5 @@
-window.function = function (input1) {
-  // Ваш код здесь
-  let data = input1.value ?? ""; 
-  return data.toUpperCase(); // Пример: перевод в верхний регистр
+window.function = function (p1) {
+  // .value нужен, чтобы достать текст из объекта параметра
+  const input = p1.value ?? ""; 
+  return "Результат: " + input;
 }
