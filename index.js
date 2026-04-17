@@ -1,5 +1,3 @@
 window.function = function (p1) {
-  // .value нужен, чтобы достать текст из объекта параметра
-  const input = p1.value ?? ""; 
-  return "Результат: " + input;
+  return (p1.value || "Нет данных").toUpperCase();
 }
