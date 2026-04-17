@@ -1,4 +1,5 @@
 {
+  "name": "experimental-code",
   "bootstrap": "index.js",
   "params": [
     {
