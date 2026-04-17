@@ -1,4 +1,5 @@
 {
+  "bootstrap": "index.js",
   "params": [
     {
       "name": "p1",
