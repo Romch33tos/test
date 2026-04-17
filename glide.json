@@ -1,0 +1,11 @@
+{
+  "params": [
+    {
+      "name": "input1",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
