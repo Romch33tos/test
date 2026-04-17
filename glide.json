@@ -1,7 +1,6 @@
 {
   "name": "experimental-code",
-  "type": "experimental",
-  "bootstrap": "index.js",
+  "description": "My custom experimental code column",
   "params": [
     {
       "name": "p1",
