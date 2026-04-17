@@ -1,3 +1,5 @@
 window.function = function (p1) {
-  return (p1.value || "Нет данных").toUpperCase();
+  // Простейший код для проверки: он просто вернет текст в верхнем регистре
+  let val = p1.value ?? "";
+  return val.toUpperCase();
 }
