@@ -1,7 +1,8 @@
 {
+  "bootstrap": "index.js",
   "params": [
     {
-      "name": "input1",
+      "name": "p1",
       "type": "string"
     }
   ],
